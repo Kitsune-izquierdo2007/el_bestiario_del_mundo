@@ -1,0 +1,66 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url(/proyecto/img/negro.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;;
+}
+header{
+    padding: 10px 5%;
+    background-color:rgb(211, 19, 19);
+}
+header>*{
+    display: inline-block;
+    width:450px;
+}
+.emptiness{
+    width:10%;
+}
+header a{
+    text-decoration: none;
+    color: rgb(244, 224, 9);
+    margin:0 10px;
+}
+.banner{
+    padding: 20% 5%;
+    color: white;
+    font-size: 30px;
+}
+.post{
+    padding: 10px 5%;
+    text-align: center;
+}
+.post>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.break{
+    height:700px;
+}
+
+#final>div{
+    padding: 10px;
+    font-size:30px;
+    text-align: center;
+}
+footer{
+    background-color:black;
+    padding:10px 0;
+    text-align: center;
+    color:white;
+}
+
+.bestias{
+    padding: 5% 10%;
+    color: white;
+    font-size: 25px;
+}
+.icono{
+    height: 50px;
+}
+.grecia{
+    display: flex;
+}
